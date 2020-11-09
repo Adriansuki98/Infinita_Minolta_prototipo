@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="logo.png">
   <br/>
-  Cursos Platzi
+  Infinita Minolta
   <br>
 </h1>
 
