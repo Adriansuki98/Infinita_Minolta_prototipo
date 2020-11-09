@@ -1,3 +1,4 @@
+# Infinita Miolta
 <h1 align="center">
   <img src="logo.png">
   <br/>
